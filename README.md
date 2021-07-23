@@ -3,7 +3,7 @@
 ### I'm Frontend Developer in Ankara, Turkey
 
 <div style="display:flex; column-gap:0.5em;">
-<img alt="keyboard" src="src/keyboard.gif" style="float:left;"/>
+<img alt="keyboard" src="src/keyboard.gif" align="right" width="640" height="360"/>
 
 <div style="display:flex; flex-direction:column; align-content:space-between;">
 
