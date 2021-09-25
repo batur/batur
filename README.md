@@ -6,7 +6,7 @@
 
 ### Tech Stack
 
-  <div style="display:flex; flex-wrap:wrap; gap:1rem; margin-right: 1rem; margin-bottom: 3rem;">
+  <div style="display:flex; flex-wrap:wrap; gap:1rem; margin-right: 1rem; margin-bottom: 1rem;">
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
