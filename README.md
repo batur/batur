@@ -1,7 +1,8 @@
 [![Hi,there. I'm Frontend Developer](https://readme-typing-svg.herokuapp.com?color=16E672&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Frontend+Developer)](https://baturdev.com)
 
 <img alt="keyboard" src="src/keyboard.gif" align="right" width="480" height="270"/>
-https://www.codewars.com/users/cosakin/badges/micro
+
+![Code Wars Badge](https://www.codewars.com/users/cosakin/badges/micro)
 <div>
 
 ### Tech Stack
